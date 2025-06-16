@@ -8,6 +8,7 @@
 ### 🧬 Sorting Action Potentials from Neural Data using PCA  
 Applied Principal Component Analysis (PCA) to cluster and visualize neural spikes to isolate neuron firing patterns
 from raw signal data.  
+[View Repository »](https://github.com/tracyaobeng/Sorting-Action-Potentials)
 
 ### 🧠 Neural Decoder for Mouse Tracking
 Predict mouse cursor movement using EEG data and TensorFlow.  
