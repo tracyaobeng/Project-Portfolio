@@ -1,5 +1,5 @@
-# Tracy Obeng Project-Portfolio
-Welcome! I'm a Master's student in Robotics and Autonomous Systems specializing in Biomedical Engineering. This portfolio showcases selected projects from my academic and personal work.
+# Project-Portfolio
+Welcome! I'm Tracy Obeng, a Master's student in Robotics and Autonomous Systems specializing in Biomedical Engineering. This portfolio showcases selected projects from my academic and personal work.
 
 ## Academic Projects 
 
