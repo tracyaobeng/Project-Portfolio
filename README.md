@@ -3,7 +3,7 @@ Welcome! I'm a Master's student in Robotics and Autonomous Systems specializing 
 
 ## Academic Projects 
 
-### 🧠 Neural Decoder for Mouse Tracking 
+### 🧠 Neural Decoder for Mouse Tracking using LSTM-based Recurrent Neural Networks.
 Built a deep learning model to decode continuous 2D cursor movements from multichannel neural signals, evaluated across multiple LSTM architectures.
 [View Repository »](https://github.com/tracyaobeng/Neural-Cursor-Decoder)
  
